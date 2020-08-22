@@ -21,4 +21,4 @@ yarn dev
 yarn test
 ```
 
-<p align=center><img src="https://nodejs.org/static/images/logo.svg" height="150" width="150"></center></p>
+<p style="background: #2e2e2e" align=center><img src="https://nodejs.org/static/images/logo.svg" height="150" width="150"></center></p>
