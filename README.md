@@ -1,7 +1,7 @@
 # Conceitos do NodeJS
 
 ## About
-A Rocketseat nodejs challenge
+GoStack 13's first nodeJS programming challenge.
 
 ## technologies
 - [NodeJs](https://nodejs.org/)
